@@ -1,0 +1,17 @@
+,x,y,corr_val
+0,Survived,Survived,1.0
+1,Survived,Class,-0.33848103596101514
+2,Survived,Age,-0.07722109457217756
+3,Survived,TicketPrice,0.2573065223849626
+4,Class,Survived,-0.33848103596101514
+5,Class,Class,1.0
+6,Class,Age,-0.36922601531551735
+7,Class,TicketPrice,-0.5494996199439076
+8,Age,Survived,-0.07722109457217756
+9,Age,Class,-0.36922601531551735
+10,Age,Age,1.0
+11,Age,TicketPrice,0.09606669176903912
+12,TicketPrice,Survived,0.2573065223849626
+13,TicketPrice,Class,-0.5494996199439076
+14,TicketPrice,Age,0.09606669176903912
+15,TicketPrice,TicketPrice,1.0
